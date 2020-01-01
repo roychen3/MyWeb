@@ -1,0 +1,22 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roychen3/MyWeb.git"
+  },
+  "author": "Roy Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roychen3/MyWeb/issues"
+  },
+  "homepage": "https://roychen3.github.io/myweb",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
